@@ -11,7 +11,8 @@ I am well versed with using Linux, as it is my preferred operating system.
 You can contact me via email - kerimdem153@gmail.com
 I'm currently looking for placement opportunities, let's get in touch!
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ## Tools & Tech
 
@@ -20,7 +21,8 @@ I'm currently looking for placement opportunities, let's get in touch!
 -- Linux (Debian, NixOS, Void), Windows
 -- Vim, NeoVim, Nano, Visual Studio, Visual Studio Code
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ## A Bit About Me
 
