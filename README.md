@@ -30,7 +30,11 @@ I'm currently looking for placement opportunities, let's get in touch!
 ## A Bit About Me
 
 -- I don't drink caffeine, so I'll never be groggy in early shifts!
+
 -- My hobbies include journaling, walking, and meditation, as they all help clear my mind to give my full attention to work.
+
 -- I have a very silent mechanical keyboard, so long coding sessions never bother anyone around me.
+
 -- I am very sociable and work my best with organized colleagues.
+
 -- Learning is something I enjoy doing, and actively ask for more work to sharpen my skillset or documentation to read.   
