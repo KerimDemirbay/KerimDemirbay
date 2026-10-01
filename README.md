@@ -17,8 +17,11 @@ I'm currently looking for placement opportunities, let's get in touch!
 ## Tools & Tech
 
 -- Rust, C#, C++, Python, JavaScript, TypeScript, HTML
+
 -- Svelte, .NET environment
+
 -- Linux (Debian, NixOS, Void), Windows
+
 -- Vim, NeoVim, Nano, Visual Studio, Visual Studio Code
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
