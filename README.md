@@ -1,4 +1,4 @@
-## Hi there!  
+## About me!  
 
 I'm Kerim, a second year Computer Science w AI student at Sheffield Hallam University in England. 
 
