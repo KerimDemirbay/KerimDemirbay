@@ -1,5 +1,3 @@
-## About me!  
-
 I'm Kerim, a second year Computer Science w AI student at Sheffield Hallam University in England. 
 
 I'm comfortable coding in C#, Rust and TypeScript / JavaScript. I'm also competent with C++ and Python, even though I haven't mastered them yet.
